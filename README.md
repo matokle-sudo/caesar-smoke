@@ -8,7 +8,7 @@ Smoke test: end-to-end verification of Caesar's GitHub auth chain.
 - [x] Caesar can write to github.com (created this repo via the REST API)
 - [x] `credential.helper = manager` resolves the PAT from Windows Credential Manager
 - [x] `git push origin main` works end-to-end
-- [x] Commits are authored by `matokle-sudo <matttoakley@gmail.com>`
+- [x] Commits are authored by `matokle-sudo <owner-email>` (the owner's address, redacted)
 
 ## Status
 
